@@ -28,4 +28,4 @@
 
 # 🌍 Por si deseas contactarme:
 [![Email](https://img.shields.io/badge/3ln4v3g4nt3@gmail.com-mi_email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:3ln4v3g4nt3@gmail.com)
-[![Web](https://img.shields.io/badge/My_Website-mariotapia.site44.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.mariotapia.site44.com)
+[![Web](https://img.shields.io/badge/My_Website-https://mariotapia.site44.com/-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mariotapia.site44.com/))
