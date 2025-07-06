@@ -1,6 +1,6 @@
-# ¡Hola! 👋🏻 Mi nombre es Mario, soy estudiante de Tecnicatura en REdes de la UNCA 👨‍💻
+# ¡Hola! 👋🏻 Mi nombre es Mario, soy estudiante de la "Tecnicatura en Redes" de la UNCA 👨‍💻
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/uskokrum2010?style=social)](https://twitter.com/mjtonline)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mjtonline?style=social)](https://twitter.com/mjtonline)
 
 
 # Skills:
