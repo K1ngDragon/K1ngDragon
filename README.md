@@ -1,4 +1,4 @@
-# ¡Hola! 👋🏻 Mi nombre es Mario, soy estudiante de la "Tecnicatura en Redes" de la UNCA. 
+# ¡Hola! 👋🏻 Mi nombre es Mario, soy estudiante de la "Tecnicatura en Redes" de la UNCa. 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mjtonline?style=social)](https://twitter.com/mjtonline)
 
