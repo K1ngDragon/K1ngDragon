@@ -1,4 +1,4 @@
-# ¡Hola! 👋🏻 Mi nombre es Mario, soy estudiante de la "Tecnicatura en Redes" de la UNCA 👨‍💻
+# ¡Hola! 👋🏻 Mi nombre es Mario, soy estudiante de la "Tecnicatura en Redes" de la UNCA. 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mjtonline?style=social)](https://twitter.com/mjtonline)
 
@@ -26,5 +26,6 @@
 [![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
-# 🌍 Por si deseas contactarme 👨‍💻 :
+# 🌍 Por si deseas contactarme:
 [![Email](https://img.shields.io/badge/3ln4v3g4nt3@gmail.com-mi_email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:3ln4v3g4nt3@gmail.com)
+[![Web](https://img.shields.io/badge/My_Website-uskokrum2010.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://uskokrum2010.com)
